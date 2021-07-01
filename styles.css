@@ -1,0 +1,80 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	/*list-style: none;*/
+}
+
+body{
+	background: #fff;
+	font-size: 14px;
+	line-height: 30px;
+	color: grey;
+}
+
+/*this class will be used where we do not want pointer of the list as we used in front of experience*/
+
+.list_style {
+	list-style: none;
+}
+
+.resume{
+	width: 900px;
+	height: auto;
+	/*display: flex;  Property used to get the div resume-left under resume-top becuase otherwise this was not happening.*/
+	margin: 50px auto;
+	column-gap: 40px;
+}
+
+.resume .resume_top {
+	display: flex;
+	width: 800px;
+	height: auto;
+	margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.resume .resume_top .table .profile_right {
+	margin-left: 350px;
+}
+
+.resume .table {
+	display: flex;
+}
+
+.resume .table .resume_left {
+	/*float: left;*/
+	flex: 50%;
+	width: 50%;
+	height: auto;
+	line-height: 20px;
+}
+
+.resume .table .resume_left .space_inbetween {
+	height: 10px;
+}
+
+.resume .table .resume_left .data {
+	padding-left: 20px;
+}
+
+.resume .table .resume_left .data .date {
+	color: orange;
+}
+
+.resume .table .resume_right {
+	width: 50%;
+	margin-left: auto;
+}
+
+.resume .table .resume_right .data {
+	padding-left: 20px;
+}
+
+.fas {
+  	color: orange;
+}
+
+.fab {
+	color: orange;
+}
