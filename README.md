@@ -6,4 +6,4 @@
 
 Preview:- 
 
-https://user-images.githubusercontent.com/52041719/124129352-55d8f500-da9b-11eb-8971-ba88bef5d963.mov
+![resume - preview](https://user-images.githubusercontent.com/52041719/124129786-c122c700-da9b-11eb-98b2-904cb89a6efb.gif)
